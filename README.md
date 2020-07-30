@@ -1,4 +1,4 @@
-![](header-t.png)
+![](https://github.com/carissableker/carissableker/blob/master/header-t.png)
 
 ## Hi, my name is Carissa! 👋
 I am a data science and computational biology researcher. 
