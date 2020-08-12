@@ -1,7 +1,7 @@
 ![](https://github.com/carissableker/carissableker/blob/master/header-t.png)
 
 ## Hi, my name is Carissa! 👋
-I am a data science and computational biology researcher. 
+I am a data scientist and computational biology researcher. 
 
 
 - 🔭 I’m currently working on the EU horizons project [ADAPT](https://adapt.univie.ac.at/) at [NIB-SI](https://github.com/NIB-SI). 
