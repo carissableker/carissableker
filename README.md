@@ -4,7 +4,7 @@
 I am a data scientist and computational biology researcher. 
 
 
-- 🔭 I’m currently working on the EU horizons project [ADAPT](https://adapt.univie.ac.at/) at [NIB-SI](https://github.com/NIB-SI). 
+- 🔭 I’m currently working on the EU horizons projects [ADAPT](https://adapt.univie.ac.at/) and [FRUITDIV](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999806840/project/101133964/program/43108390/details) at [NIB-SI](https://github.com/NIB-SI). 
 - 😄 Pronouns: [she](https://www.mypronouns.org/she-her) 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
