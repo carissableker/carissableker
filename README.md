@@ -4,7 +4,7 @@
 I am a data scientist and computational biology researcher. 
 
 
-- 🔭 I’m currently working on the EU horizons projects [ADAPT](https://adapt.univie.ac.at/) and [FRUITDIV](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999806840/project/101133964/program/43108390/details) at [NIB-SI](https://github.com/NIB-SI). 
+- 🔭 I’m currently working on the EU horizons projects [ADAPT](https://adapt.univie.ac.at/) and [FRUITDIV](https://fruitdiv.eu/) at [NIB-SI](https://github.com/NIB-SI). 
 - 😄 Pronouns: [she](https://www.mypronouns.org/she-her) 
 
   <img align="center" src="https://github-readme-stats-carissableker.vercel.app/api/top-langs/?username=carissableker&count_private=true&show_icons=true&include_all_commits=true&langs_count=10&hide=html,tex&show_icons=true&layout=compact&count_private=true&theme=transparent&bg_color=45,46afbc,bc5346&text_color=020101" />
